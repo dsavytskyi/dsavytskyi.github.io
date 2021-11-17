@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Savytskyi Dmytro
+#### QA Engineer
+_Tel: +38 093 406 58 92<br>
+dsavytskyi@gmail.com<br>
+https://www.linkedin.com/in/dsavytskyi/<br>
+Vinnytsia, Ukraine_
 
-You can use the [editor on GitHub](https://github.com/dsavytskyi/dsavytskyi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### EXPIRIENCE
+#### September 2021 – present: Axon
+_QA Engineer_
+-	Functional/Regression/Smoke/Sanity testing on Web;
+-	Creating, maintaining and executing test-cases and checklists;
+-	Setting up the testing process;
+-	Executing load tests using JMeter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### September 2019 – August 2021: MLSDev
+_QA Engineer (manual/automation)_
+-	Functional/Regression/Smoke/Sanity/Integration testing on Web, Mobile;
+-	Creating, maintaining and executing test-cases and checklists;
+-	Executing API and load tests using JMeter;
+-	Writing and maintaining automated testing using Cypress;
+-	Communication with foreign teams;
+-	Reporting bugs to the development team.
 
-### Markdown
+#### October 2018 – September 2019: Testmatick
+_Manual QA Engineer_
+-	Functional/Regression/Smoke testing on Web and Mobile;
+-	Creating, maintaining and executing test-cases and checklists;
+-	Reporting bugs to the development team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EDUCATION
+#### MSc - Vinnytsia National Technical University - Software Engineering (2016 – 2021)
 
-```markdown
-Syntax highlighted code block
+### SKILLS AND TOOLS
+Hands-on experience with manual, automated (using JS and Cypress) and performance testing. Worked with such tools and technologies: Jira, Azure Test Plans, JMeter, Swagger, Cypress, Selenium, REST API, Postman, Kibana, Kobiton, ADB, Git, Confluence, VMware, Windows, Android, iOS, macOS, Linux, etc. At least basic knowledge of the following programming languages: JS, Java and Python.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsavytskyi/dsavytskyi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### LANGUAGES
+Ukrainian: Native<br>
+English: Upper Intermediate (close to Advanced level) 
